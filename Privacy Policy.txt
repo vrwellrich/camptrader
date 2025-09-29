@@ -1,0 +1,55 @@
+Camp Trader 
+
+Privacy Policy
+
+1. We Do Not Sell Your Information
+
+We do not sell, rent, or trade your personal information to any third parties.
+
+2. Minimal Required Information
+
+The App functions using only the minimum user information necessary—just what’s essential for core features such as account setup, listings, or communication.
+
+3. Use of Third-Party Services
+
+We may engage trusted third-party service providers (for analytics, crash reporting, hosting, messaging, or payment processing). They only receive the minimal necessary data and are prohibited from using it for unrelated purposes.
+
+4. Cookies
+
+We use only strictly necessary cookies—those required for the App’s basic operation. We do not use cookies for analytics, advertising, or tracking.
+
+5. Collection & Use of Information
+We may collect:
+
+Device identifiers, usage metrics, and crash logs
+
+Registration account details
+
+Transaction information (if applicable)
+
+This helps us deliver and improve the App, troubleshoot issues, and ensure functionality.
+
+6. Location Data / Listings
+
+When you post a listing, the App collects your location. By default, we display truncated coordinates limited to two decimal places, corresponding to a radius of about 1.1 kilometers. This reduces—but does not eliminate—the ability to infer your exact location.
+
+You may also choose to share more specific location details (such as a street address or precise coordinates) at your own discretion when responding to inquiries through text or chat channels. Any such disclosure is voluntary and outside the App’s control.
+
+Camp Trader disclaims all liability for disclosure of both truncated and user-provided location data. If you prefer not to share location information, please avoid posting location-based listings or refrain from providing further details to others.
+
+7. Data Sharing & Disclosure
+We share data only with:
+
+The third-party providers mentioned above
+
+Legal authorities when required by law or to protect our rights
+
+We never share your personal information for marketing without your explicit consent.
+
+8. Security & Disclaimer
+
+We use reasonable technical and organizational safeguards to protect your data. However, we cannot guarantee absolute protection against unauthorized access, misuse, or disclosure. Please avoid posting unnecessary or highly sensitive content in your listings or communications.
+
+9. User Rights & Updates
+
+If you are in a region with privacy laws (e.g., California, EU), you may have rights to access, delete, or correct your personal data. Contact us to exercise these rights. This policy may be updated at any time; continued use of the App after changes constitutes acceptance.
