@@ -1,55 +1,76 @@
-Camp Trader 
+Camp Trader – Privacy Policy 
 
-Privacy Policy
+Last updated: 2025-09-29
+Contact: support@camptrader.app
 
-1. We Do Not Sell Your Information
+1) Scope
 
-We do not sell, rent, or trade your personal information to any third parties.
+This policy describes how the Camp Trader Android app collects, uses, and shares data. (Our website may use additional web-only technologies like cookies; see §10.)
 
-2. Minimal Required Information
+2) We Don’t Sell Data
 
-The App functions using only the minimum user information necessary—just what’s essential for core features such as account setup, listings, or communication.
+We do not sell, rent, or trade your personal information.
 
-3. Use of Third-Party Services
+3) Data We Collect (and Why)
 
-We may engage trusted third-party service providers (for analytics, crash reporting, hosting, messaging, or payment processing). They only receive the minimal necessary data and are prohibited from using it for unrelated purposes.
+Account data (e.g., email, display name): create/manage your account, authentication, customer support. (Required for accounts.)
 
-4. Cookies
+User-generated content (listings, messages, photos): provide core marketplace features. (Required when you use these features.)
 
-We use only strictly necessary cookies—those required for the App’s basic operation. We do not use cookies for analytics, advertising, or tracking.
+Approximate location (truncated coordinates when you add a location to a listing): show listings near a general area. (Optional; collected only if you choose to include location.)
 
-5. Collection & Use of Information
-We may collect:
+Device or other IDs (e.g., Firebase Installation ID / messaging token): push notifications, app integrity, security/fraud prevention. (Required for notifications and service reliability.)
 
-Device identifiers, usage metrics, and crash logs
+App performance data
 
-Registration account details
+Crash logs & Diagnostics (e.g., Crashlytics): troubleshoot crashes, improve stability/performance. (Collected automatically by our crash/perf SDK when the app runs.)
 
-Transaction information (if applicable)
+4) Optional vs. Required
 
-This helps us deliver and improve the App, troubleshoot issues, and ensure functionality.
+Some data is required for core functionality (e.g., account data, certain device/SDK identifiers). Location is optional and collected only if you include it with a listing.
 
-6. Location Data / Listings
+5) Location Display for Listings
 
-When you post a listing, the App collects your location. By default, we display truncated coordinates limited to two decimal places, corresponding to a radius of about 1.1 kilometers. This reduces—but does not eliminate—the ability to infer your exact location.
+By default, we display truncated coordinates (≈ two decimals, ~1.1 km radius) to reduce precision; this helps reduce—but does not eliminate—the ability to infer an exact location. You may voluntarily share a more precise location in chats; that disclosure is your choice.
 
-You may also choose to share more specific location details (such as a street address or precise coordinates) at your own discretion when responding to inquiries through text or chat channels. Any such disclosure is voluntary and outside the App’s control.
+If you prefer not to share location, don’t include it in listings and avoid disclosing it in messages.
 
-Camp Trader disclaims all liability for disclosure of both truncated and user-provided location data. If you prefer not to share location information, please avoid posting location-based listings or refrain from providing further details to others.
+6) How We Use Data
 
-7. Data Sharing & Disclosure
-We share data only with:
+Provide and secure the app, enable listings/messaging, and deliver notifications
 
-The third-party providers mentioned above
+Diagnose, prevent, and address crashes, security, and abuse
 
-Legal authorities when required by law or to protect our rights
+Improve performance and reliability
+We do not use your data for advertising or profiling.
 
-We never share your personal information for marketing without your explicit consent.
+7) Sharing & Service Providers (Processors)
 
-8. Security & Disclaimer
+We share data only with service providers that process it on our behalf and under our instructions, such as:
 
-We use reasonable technical and organizational safeguards to protect your data. However, we cannot guarantee absolute protection against unauthorized access, misuse, or disclosure. Please avoid posting unnecessary or highly sensitive content in your listings or communications.
+Firebase/Google Cloud (hosting, authentication, messaging), Crashlytics (crash reporting)
 
-9. User Rights & Updates
+Google Play Billing (if purchases are made in-app)
+Providers receive only the minimum necessary data and may not use it for their own purposes.
+We may also disclose data if required by law or to protect rights, safety, and integrity.
 
-If you are in a region with privacy laws (e.g., California, EU), you may have rights to access, delete, or correct your personal data. Contact us to exercise these rights. This policy may be updated at any time; continued use of the App after changes constitutes acceptance.
+8) Security
+
+We use industry-standard safeguards and encrypt data in transit. No method is 100% secure; avoid posting highly sensitive information in listings or chats.
+
+9) Retention & Deletion
+
+We keep data only as long as needed for the purposes above or as required by law. You can request account/data deletion or access/correction at support@camptrader.app
+ (or via in-app request where available). We’ll verify your identity and respond per applicable laws.
+
+10) Cookies / Web Views
+
+The Android app does not use cookies for ads or analytics. Our website (or in-app WebViews) may use strictly necessary cookies for basic operation. We do not use cookies for cross-site tracking.
+
+11) Children
+
+Camp Trader is not directed to children. If your target audience includes children in the future, we will update our practices and disclosures accordingly.
+
+12) Changes
+
+We may update this policy. Continued use after changes means you accept the updated policy. We will indicate the “Last updated” date above.
