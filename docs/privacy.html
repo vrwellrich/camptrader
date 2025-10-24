@@ -1,81 +1,111 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Camp Trader – Privacy Policy</title>
   <style>
-    body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Cantarell,"Helvetica Neue",Arial,sans-serif;line-height:1.6;margin:2rem;max-width:900px}
-    h1,h2{line-height:1.2}
-    small, footer{color:#555}
-    ul{margin-left:1.2rem}
-    a{color:#0366d6}
+    :root { --bg:#ffffff; --fg:#111; --muted:#555; --accent:#1b5e20; }
+    html,body{margin:0;padding:0;background:var(--bg);color:var(--fg);font-family:system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Cantarell,'Helvetica Neue',Arial,'Noto Sans',sans-serif;}
+    .wrap{max-width:820px;margin:0 auto;padding:24px 18px 64px;}
+    header h1{font-size:1.75rem;margin:.5rem 0;}
+    header .meta{color:var(--muted);font-size:.95rem;margin:.25rem 0 .75rem;}
+    h2{font-size:1.1rem;margin:1.25rem 0 .35rem;}
+    p,li{line-height:1.6;margin:.35rem 0;}
+    ul{padding-left:1.1rem;}
+    .callout{border-left:3px solid var(--accent);padding:.5rem .75rem;margin:.75rem 0;background:#f7faf7;}
+    footer{margin-top:2rem;color:var(--muted);font-size:.9rem;}
+    .small{font-size:.95rem;color:var(--muted);}
   </style>
 </head>
 <body>
-  <header>
-    <h1>Camp Trader – Privacy Policy</h1>
-    <p><small><strong>Last updated:</strong> 2025-09-29</small></p>
-    <p><small><strong>Contact:</strong> <a href="mailto:support@camptrader.app">support@camptrader.app</a></small></p>
-  </header>
+  <main class="wrap" role="main">
+    <header>
+      <h1>Camp Trader – Privacy Policy</h1>
+      <div class="meta">Last updated: 2025-09-29 • Contact: <a href="mailto:support@camptrader.app">support@camptrader.app</a></div>
+      <div class="callout small">Camp Trader is an Android mobile app. It is not available on the web.</div>
+    </header>
 
-  <p>This policy explains how the <strong>Camp Trader</strong> Android app (“App”) collects, uses, and shares information. By using the App, you agree to this policy.</p>
+    <section>
+      <h2>1) Scope</h2>
+      <p>This policy explains how the Camp Trader Android app (“App”) collects, uses, and shares information. The App requires only a display name, an email address, and a general location for classified ads. Other personal details shown in the profile section (such as phone number, date of birth, gender, or camping preferences) are optional and provided only if you choose to share them.</p>
+    </section>
 
-  <h2>1. We Don’t Sell Data</h2>
-  <p>We do <strong>not</strong> sell, rent, or trade personal information.</p>
+    <section>
+      <h2>2) We Don’t Sell Data</h2>
+      <p>We do not sell, rent, or trade personal information.</p>
+    </section>
 
-  <h2>2. What We Collect (and Why)</h2>
-  <ul>
-    <li><strong>Account data</strong> (e.g., email, display name) – create and manage your account, authentication, and support. <em>Required for accounts.</em></li>
-    <li><strong>User-generated content</strong> (listings, messages, photos) – provide marketplace and communication features. <em>Required when you use these features.</em></li>
-    <li><strong>Approximate location</strong> (truncated coordinates when you add a location to a listing) – show listings in a general area. <em>Optional; only collected if you include location.</em></li>
-    <li><strong>Device or other IDs</strong> (e.g., Firebase Installation ID / messaging token) – notifications, app integrity, security/fraud prevention. <em>Required for reliable service and push.</em></li>
-    <li><strong>Crash logs & diagnostics</strong> (e.g., Crashlytics/Android vitals) – troubleshoot crashes and improve performance. <em>Collected automatically when the app runs.</em></li>
-  </ul>
+    <section>
+      <h2>3) What We Collect (and why)</h2>
+      <ul>
+        <li><strong>Display name and email address</strong> – to create and manage your account, authenticate login, and provide support. (Required)</li>
+        <li><strong>General location</strong> (approximate area or truncated coordinates) – required when posting classified ads so listings can be shown by region or nearby area.</li>
+        <li><strong>Optional profile data</strong> (phone number, date of birth, gender, camp style, or similar) – voluntarily provided to personalize your profile; not needed to use the App.</li>
+        <li><strong>User-generated content</strong> (listings, photos, messages) – used to operate the marketplace and messaging features.</li>
+        <li><strong>Device identifiers</strong> (installation ID, messaging token) – used for notifications, integrity, and fraud prevention.</li>
+        <li><strong>Crash logs and diagnostics</strong> – collected automatically to improve stability and performance.</li>
+      </ul>
+    </section>
 
-  <h2>3. Optional vs. Required</h2>
-  <p>Some data is necessary for core functionality (e.g., account data, certain device IDs). Location is optional and collected only if you attach it to a listing.</p>
+    <section>
+      <h2>4) Optional vs. Required</h2>
+      <p>Only your display name, email, and general location are required to post listings and use the App. All other profile fields are optional and can be left blank without affecting your ability to use the App.</p>
+    </section>
 
-  <h2>4. How We Use Data</h2>
-  <ul>
-    <li>Provide, maintain, and secure the App (accounts, listings, messaging, notifications)</li>
-    <li>Prevent fraud/abuse; debug and fix crashes; measure performance and reliability</li>
-    <li>Communicate about service updates or support issues</li>
-  </ul>
-  <p>We do <strong>not</strong> use your data for advertising or profiling.</p>
+    <section>
+      <h2>5) How We Use Data</h2>
+      <ul>
+        <li>Operate and secure the App (accounts, listings, messaging, notifications)</li>
+        <li>Prevent fraud and abuse; debug and fix crashes</li>
+        <li>Communicate about service updates or support issues</li>
+      </ul>
+      <p>We do not use your data for advertising or profiling.</p>
+    </section>
 
-  <h2>5. Location Display for Listings</h2>
-  <p>By default, the App displays <strong>truncated</strong> coordinates (about two decimals ≈ 1.1 km radius) to reduce precision; this reduces—but does not eliminate—the ability to infer an exact location. You may voluntarily share precise details in messages at your own discretion. If you prefer not to share location, don’t include it in listings and avoid disclosing it in chats.</p>
+    <section>
+      <h2>6) Location Display for Listings</h2>
+      <p>Listing maps display approximate coordinates (about one-kilometer radius) to reduce precision. You may not omit general location when posting a classified ad.</p>
+    </section>
 
-  <h2>6. Sharing & Service Providers</h2>
-  <p>We share data only with <strong>service providers</strong> acting on our behalf and under our instructions, such as:</p>
-  <ul>
-    <li><strong>Firebase/Google Cloud</strong> – hosting, authentication, messaging</li>
-    <li><strong>Crashlytics/Android vitals</strong> – crash reporting and diagnostics</li>
-    <li><strong>Google Play Billing</strong> – if purchases are made in-app</li>
-  </ul>
-  <p>Providers receive only the minimum necessary data and may not use it for their own purposes. We may also disclose information if required by law or to protect rights, safety, and integrity.</p>
+    <section>
+      <h2>7) Sharing &amp; Service Providers</h2>
+      <p>We share data only with trusted service providers that help us operate the App—such as cloud hosting, authentication, messaging, analytics, and crash-reporting platforms. They process data solely on our behalf and under confidentiality obligations. We may disclose information only if required by law or to protect rights or safety.</p>
+    </section>
 
-  <h2>7. Security</h2>
-  <p>We use industry-standard safeguards and <strong>encrypt data in transit</strong>. No method is 100% secure; avoid posting highly sensitive information in listings or messages.</p>
+    <section>
+      <h2>8) Security</h2>
+      <p>We use industry-standard safeguards and encrypt data in transit. Avoid including sensitive information in listings or chats.</p>
+    </section>
 
-  <h2>8. Retention & Deletion</h2>
-  <p>We keep data only as long as needed for the purposes above or as required by law. You can request account/data deletion or access/correction by emailing <a href="mailto:support@camptrader.app">support@camptrader.app</a> or via the in-app delete option (where available). We will verify your identity and process requests in accordance with applicable laws.</p>
+    <section>
+      <h2>9) Retention &amp; Deletion</h2>
+      <p>We retain data only as long as necessary for the purposes above or as required by law. You may request deletion of your account or data by contacting <a href="mailto:support@camptrader.app">support@camptrader.app</a> or using the in-app delete option.</p>
+    </section>
 
-  <h2>9. Cookies / Web Views</h2>
-  <p>The Android App does not use cookies for ads or analytics. Our website (or in-app WebViews) may use strictly necessary cookies for basic operation; we do not use cookies for cross-site tracking.</p>
+    <section>
+      <h2>10) Cookies / Web</h2>
+      <p>The Camp Trader app does not use cookies, web trackers, or external analytics tools. It is not available on the web.</p>
+    </section>
 
-  <h2>10. Children</h2>
-  <p>Camp Trader is <strong>not directed to children</strong>. If our target audience changes, we will update this policy and our practices.</p>
+    <section>
+      <h2>11) Children</h2>
+      <p>Camp Trader is not directed to children. If our audience changes, we will update this policy.</p>
+    </section>
 
-  <h2>11. Your Rights</h2>
-  <p>Depending on your location (e.g., California, EU), you may have rights to access, delete, or correct your personal data. Contact us to exercise these rights.</p>
+    <section>
+      <h2>12) Your Rights</h2>
+      <p>Depending on your location, you may have rights to access, delete, or correct your personal data. Contact us to exercise these rights.</p>
+    </section>
 
-  <h2>12. Changes</h2>
-  <p>We may update this policy from time to time. We will post the updated version here and revise the “Last updated” date above. Continued use of the App after changes means you accept the updated policy.</p>
+    <section>
+      <h2>13) Changes</h2>
+      <p>We may update this policy. Updates will be posted with a revised “Last updated” date. Continued use after changes means you accept the new policy.</p>
+    </section>
 
-  <footer>
-    <p><small>Questions? Contact <a href="mailto:support@camptrader.app">support@camptrader.app</a>.</small></p>
-  </footer>
+    <footer>
+      <p>&copy; 2025 Camp Trader</p>
+    </footer>
+  </main>
 </body>
 </html>
